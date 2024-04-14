@@ -1,11 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Vishal Prasad</h1>
 <h3 align="center">A passionate Android Developer</h3>
-<img align="right" alt="Coding" width="500 src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+<img align="right" alt="Coding" width="700 src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalprasad1912&label=Profile%20views&color=0e75b6&style=flat" alt="vishalprasad1912" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalprasad1912" alt="vishalprasad1912" /></a> </p>
 
 - 🌱 I’m currently learning **Android Studio**
 
