@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalprasad1912&label=Profile%20views&color=0e75b6&style=flat" alt="vishalprasad1912" /> </p>
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently working on **Study Clock Application**
 
 - 📫 How to reach me **vishalprasad7851@gmail.com**
 
